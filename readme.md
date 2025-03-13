@@ -24,14 +24,14 @@ This project supports **backup, restore, contact categorization, and data valida
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/your-username/contact-book.git
+git clone git@github.com:code-with-shahzaib/Contact-Book.git
 cd contact-book
 
 2️⃣ Install dependencies
 pip install tabulate
 
 3️⃣ Run the script
-python contact_book.py
+python main.py
 
 📝 Usage
 🔐 First-Time Setup
@@ -71,6 +71,8 @@ If you forget the password, delete the password.txt file and reset it manually.
 📅 Add birthday reminders.
 🌐 Create a GUI version.
 🔗 Sync contacts with online storage.
+
+
 👨‍💻 Author
 Muhammad Shahzaib – Passionate about software development and AI. 🚀
 💡 DreamTech Founder | Aspiring AI Developer
